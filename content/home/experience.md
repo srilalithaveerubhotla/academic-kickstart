@@ -24,12 +24,13 @@ date_format = "Jan 2006"
   location = "Hyderabad, India"
   date_start = "2019-05-10"
   date_end = "2017-06-10"
-  description = "An Iot Based company which manufactures home security systems"
-  Responsibilities include=
+  description = """An Iot Based company which manufactures home security systems"
+  Responsibilities include:
   
   * Data Extraction & Analysis 
   * Machine Learning Model Building
   * Deploying in Large scale
+    """
 
 [[experience]]
   title = "Analyst"
