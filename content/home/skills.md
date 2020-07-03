@@ -15,7 +15,7 @@ subtitle = "Programming"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "Python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "90%"
@@ -27,13 +27,19 @@ subtitle = "Programming"
   description = "80%"  
   
 [[feature]]
-  icon = "Tensorflow"
+  icon = "tensorflow"
   icon_pack = "fas"
   name = "Tensorflow"
   description = "50%"
   
  [[feature]]
-  icon = "sql"
+  icon = "databases"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "80%"
+  
+ [[feature]]
+  icon = ":smile:"
   icon_pack = "fas"
   name = "SQL"
   description = "80%"
