@@ -30,7 +30,6 @@ date_format = "Jan 2006"
   * Data Extraction & Analysis 
   * Machine Learning Model Building
   * Deploying in Large scale
-  """
 
 [[experience]]
   title = "Analyst"
