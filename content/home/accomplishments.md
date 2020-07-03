@@ -33,6 +33,7 @@ date_format = "Jan 2006"
   title = "Python For Data Science"
   certificate_url = "https://courses.cognitiveclass.ai/certificates/5968d87601624f5ba7cf90c76c49dab1"
   badge_url = "https://www.youracclaim.com/badges/6bbbc0b1-20d4-4d97-b9af-55462c0e989f"
+  date_start = "2020-06-25"
   description = "writing own own Python scripts and perform basic hands-on data analysis using IBM's Jupyter-based lab environment."
   
 [[item]]
@@ -40,6 +41,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.hackerrank.com"
   title = "Python (Basic)"
   certificate_url = "https://www.hackerrank.com/certificates/9fbc0ab8052c"
+  date_start = "2020-06-20"
   description = "It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes."
 
 +++
