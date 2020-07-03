@@ -27,19 +27,13 @@ subtitle = "Programming"
   description = "80%"  
   
 [[feature]]
-  icon = "tensorflow"
+  icon = "api"
   icon_pack = "fas"
   name = "Tensorflow"
   description = "50%"
   
  [[feature]]
   icon = "databases"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "80%"
-  
- [[feature]]
-  icon = ":smile:"
   icon_pack = "fas"
   name = "SQL"
   description = "80%"
