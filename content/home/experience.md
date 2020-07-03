@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-10"
   date_end = "2017-06-10"
   description = "An Iot Based company which manufactures home security systems"
-  Responsibilities include:
+  Responsibilities include=
   
   * Data Extraction & Analysis 
   * Machine Learning Model Building
