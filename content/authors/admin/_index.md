@@ -23,11 +23,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - link: www.linkedin.com/in/srilalitha-veerubhotla
+    icon: linkedin
+    icon_pack: fab
 education:
   courses:
     - course: Master's in Data Science
       institution: San Jose State University
-      year: 2019
+      year: 2021
 email: ""
 user_groups:
   - ""
